@@ -4,7 +4,7 @@
 ---
 
 # Sales dashboard
-<img width="2700" height="3598" alt="localhost_5050_dashboard_practice-dashboard (1)" src="https://github.com/user-attachments/assets/148275b6-a429-42c1-9e9f-ebf903c59cd5" />
+<img width="2700" height="3498" alt="localhost_5050_dashboard_practice-dashboard_fullscreen" src="https://github.com/user-attachments/assets/5b181671-540b-4dbe-aab7-c9bb2add0b8d" />
 
 ---
 
